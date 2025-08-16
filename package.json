@@ -1,0 +1,25 @@
+{
+  "name": "the_next_guy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "nodemon backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NajafAli786110/The_Next_Guy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NajafAli786110/The_Next_Guy/issues"
+  },
+  "homepage": "https://github.com/NajafAli786110/The_Next_Guy#readme",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "mongoose": "^8.17.1"
+  }
+}
